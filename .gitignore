@@ -1,3 +1,17 @@
+.venv
+.vs
+**/__pycache__/
+
+
+# MacOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -96,3 +110,9 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# Environments
+.venv
+myenv/
+myvenv/
+venv/
